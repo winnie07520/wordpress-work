@@ -1,0 +1,73 @@
+&nbsp;
+
+&nbsp;
+
+<style>
+* {<br />    box-sizing: border-box;<br />}</p>
+<p>body {<br />    margin: 0;<br />    font-family: Arial, sans-serif;<br />    background-color: orange;<br />}</p>
+<p>/* Header section */<br />header {<br />    background-color: red;<br />    padding: 20px;<br />    text-align: center;<br />}</p>
+<p>header h1 {<br />    color: gold;<br />    font-size: 38px;<br />}</p>
+<p>header img {<br />    width: 200px;<br />    height: auto;<br />    border: 2px solid black;<br />}</p>
+<p>header h3 {<br />    color: black;<br />}</p>
+<p>/* Navigation menu */<br />nav {<br />    margin-top: 20px;<br />}</p>
+<p>nav a {<br />    display: inline-block;<br />    color: white;<br />    background-color: darkred;<br />    padding: 12px 18px;<br />    margin: 5px;<br />    text-decoration: none;<br />    border-radius: 5px;<br />}</p>
+<p>nav a:hover {<br />    background-color: black;<br />}</p>
+<p>/* Main content */<br />main {<br />    background-color: orange;<br />    padding: 30px;<br />}</p>
+<p>main h2 {<br />    color: darkred;<br />    font-style: italic;<br />}</p>
+<p>main p {<br />    font-size: 17px;<br />    line-height: 1.6;<br />}</p>
+<p>.food-image {<br />    display: block;<br />    width: 80%;<br />    max-width: 700px;<br />    height: auto;<br />    margin: 20px auto;<br />    border: 2px solid black;<br />}</p>
+<p>/* Footer section */<br />footer {<br />    background-color: green;<br />    color: white;<br />    padding: 25px;<br />}</p>
+<p>footer h2 {<br />    font-style: italic;<br />}</p>
+<p>footer ul {<br />    line-height: 2;<br />}</p>
+<p>/* Mobile responsiveness */<br />@media screen and (max-width: 600px) {<br />    header h1 {<br />        font-size: 27px;<br />    }</p>
+<p>    nav a {<br />        display: block;<br />    }</p>
+<p>    .food-image {<br />        width: 100%;<br />    }<br />}<br /></style>
+
+&nbsp;
+
+&nbsp;
+
+<!-- HEADER -->
+
+<header>
+<h1>DELICIOUS FOOD</h1>
+<img class="alignnone size-full wp-image-20" src="http://localhost/wp-content/uploads/2026/11/logo.jpeg" alt="" width="1080" height="1080" />
+<img src="LOGO.png" alt="Delicious Food Logo" />
+<h3><i>Motto: Good Food Good Mood</i></h3>
+<nav><a href="about-us.html">ABOUT US</a>
+<a href="contact-us.html">CONTACT US</a>
+<a href="admission.pdf">ADMISSION</a></nav></header><!-- MAIN CONTENT -->
+
+&nbsp;
+<h2>Welcome Message</h2>
+Taste the best, feel the best. We are happy to serve you
+fresh, tasty and affordable local and international dishes.
+<h2>Introduction</h2>
+Delicious Food is a modern local restaurant located at
+Kisubi, serving both local and international dishes.
+<h2>Contact Information</h2>
+Email: mubirujon632@gmail.com
+
+Telephone: 0752054435
+<h2>Relevant Image</h2>
+[caption id="attachment_21" align="alignnone" width="612"]<img class="size-full wp-image-21" src="http://localhost/wp-content/uploads/2026/11/pic.jpg.jpeg" alt="" width="612" height="408" /> Happy African American female chef serving a dish in restaurant and looking at camera.[/caption]
+
+alt="Delicious restaurant food"
+class="food-image"&gt;
+
+&nbsp;
+
+<!-- FOOTER -->
+
+<footer>
+<h2>Services Offered</h2>
+<ul>
+ 	<li>Matooke</li>
+ 	<li>Rice</li>
+ 	<li>Soy sauce</li>
+ 	<li>Meat</li>
+</ul>
+© 2026 Delicious Food Restaurant.
+All Rights Reserved.
+
+</footer>&nbsp;
